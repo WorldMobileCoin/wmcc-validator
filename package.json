@@ -1,0 +1,19 @@
+{
+  "name": "wmcc-validator",
+  "version": "1.0.0-beta.1",
+  "description": "WMCC Validator - WMCC Utility",
+  "repository": "git://github.com/worldmobilecoin/wmcc-validator.git",
+  "homepage": "https://github.com/worldmobilecoin/wmcc-validator",
+  "bugs": {
+    "url": "https://github.com/worldmobilecoin/wmcc-validator/issues"
+  },
+  "author": "ParkAlter@WorldMobileCoin <worldmobilecoin@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "dependencies": {
+    "wmcc-decimal": "*"
+  },
+  "main": "./lib/wmcc-validator.js"
+}
