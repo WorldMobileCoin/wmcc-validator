@@ -1,6 +1,6 @@
 {
   "name": "wmcc-validator",
-  "version": "1.0.0-beta.1",
+  "version": "1.0.0-beta.2",
   "description": "WMCC Validator - WMCC Utility",
   "repository": "git://github.com/worldmobilecoin/wmcc-validator.git",
   "homepage": "https://github.com/worldmobilecoin/wmcc-validator",
